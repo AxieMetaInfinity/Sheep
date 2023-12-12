@@ -13,7 +13,6 @@ const App = () => {
 
     useEffect(() => {
         Modal.setAppElement("body");
-        console.log("Mounting app");
     }, []);
 
     useEffect(() => {
