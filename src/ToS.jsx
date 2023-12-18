@@ -1,7 +1,7 @@
 const ToS = () => {
   return (
     <div className="w-full h-full md:p-5" style={{background:'rgba(0,0,0,.9)', fontFamily:'Courier', color:'#24D336', fontSize:'20px'}}>
-           <h3>TERMS &  CONDITIONS</h3><br/>
+           <h3> TERMS &  CONDITIONS </h3><br/>
 This Sheep Game Terms and Conditions (this “Agreement”) is a legally binding agreement by and between
 Subzero Labs LLC (“The Sheep Game Developers” or “us” or “we”) and any owner of any Woolf (defined below)
 (“you” or “Purchaser”). The Sheep Game Developers and each Purchaser may be referred to throughout this

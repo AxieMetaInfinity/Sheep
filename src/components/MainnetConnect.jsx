@@ -12,7 +12,7 @@ const MainnetConnect = () => {
       onClick={switchToMainnet}
     >
       <div className="text-center font-console pt-1" style={{fontSize:'20px'}}>
-        Switch to Avalanche
+        Switch to Avalanche Network
       </div>
     </div>
   )
