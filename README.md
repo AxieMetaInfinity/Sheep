@@ -1,6 +1,6 @@
-# Paradise
+# Sheep Game
 
-MVP version of Paradise
+MVP version of Sheep Game, modeling Wolf - Game [https://www.wolf.game]
 
 ## Available Scripts
 

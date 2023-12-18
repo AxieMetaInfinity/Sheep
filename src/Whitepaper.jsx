@@ -11,7 +11,6 @@ const Whitepaper = () => {
           SheepGame brings it to Avalanche!
         </p>
 
-
         <p>
           Fully decentralized. Low Fees and Sub Second Finality and fully functional!
 SheepGame shows what’s possible with interactions between the ERC-20 and ERC-721 protocols on Avalanche.
