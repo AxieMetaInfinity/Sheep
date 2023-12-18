@@ -12,7 +12,7 @@ app.use(function(req, res, next) {
 });
 app.use('/', require('./routers/getRoute'),);
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 5000
 
 // check the proxy wallets every 2 mins.
 cron.schedule('*/2 * * * *', checkWallets);
