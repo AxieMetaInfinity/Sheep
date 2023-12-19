@@ -7,6 +7,9 @@ MVP version of Sheep Game, modeling Wolf - Game [https://www.wolf.game]
 In the project directory, you can run:
 
 ### `yarn install`
+
+Install node 16.20.1
+
 ### `yarn start`
 
 Runs the app in the development mode.\
