@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `yarn install`
 
-Install node 16.20.1
+Install node 16.20.0
 
 ### `yarn start`
 
