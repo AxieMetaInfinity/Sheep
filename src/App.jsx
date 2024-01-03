@@ -12,7 +12,9 @@ const App = () => {
     const [wool, setWool] = useState("?");
 
     useEffect(() => {
+
         Modal.setAppElement("body");
+        
     }, []);
 
     useEffect(() => {
